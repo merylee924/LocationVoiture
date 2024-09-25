@@ -1,4 +1,4 @@
-# Description de Poojet
+# Description de Projet
 Ce projet est une application de gestion de location de voiture développée en Java et Swing. Il permet la gestion des véhicules disponibles ainsi que des clients et de leurs réservations.
 
 # Fonctionnalités
